@@ -11,6 +11,13 @@
 
 <!-- endregion:toc -->
 
+## 🗓 25.05.11
+
+- change-log
+  - 初始化 TNotes.change-log 知识库
+  - 完成 `0002. 25.04`，将上个月记录的已完成的部分内容搬运到这篇笔记中。
+  - 创建 `0001. 25.05`，记录这个月接下来的一些 TNotes 日志。
+
 ## 1. 🗓 25.05.10
 
 - en-notes
@@ -27,10 +34,6 @@
   - 完成笔记 `1. MySQL 8 从入门到精通`
   - 初始化 TNotes.yuque - mysql.0001，将书籍《MySQL 8 从入门到精通》中的相关资源（视频 + 课件）搬运到语雀上，以便后续在线预览。
   - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-22-48-40.png)
-- change-log
-  - 初始化 TNotes.change-log 知识库
-  - 完成 `0002. 25.04`，将上个月记录的已完成的部分内容搬运到这篇笔记中。
-  - 创建 `0001. 25.05`，记录这个月接下来的一些 TNotes 日志。
 
 ## 2. 🗓 25.05.09
 
@@ -59,13 +62,17 @@
 ## 5. 🗓 25.05.06
 
 - TNotes
-  - 首页文案移除 Tdahuyou の notes
+  - 首页文案移除 `Tdahuyou の notes`
   - 整理语雀上工具分享相关的笔记内容
-- en-notes
-  - consecutive
-- TNotes
   - 修改默认的笔记模板
   - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-10-23-43-32.png)
+- en-notes
+  - consecutive
+
+## 6. 🗓 25.05.03
+
+- electron
+  - 将 TNotes.electron 笔记仓库过一遍，优化文档结构。（整理了一小部分）
 
 ## 6. 🗓 25.05.02
 
