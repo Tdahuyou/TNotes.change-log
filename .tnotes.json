@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.change-log",
-  "keywords": ["TNotes.change-log"],
+  "keywords": [
+    "TNotes.change-log"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
